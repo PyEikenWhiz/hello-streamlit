@@ -1,2 +1,2 @@
 import streamlit as st
-st.write("Hello, Today is Saturday!!!!!")
+st.write("Hello, Today is Friday!!!!!")
